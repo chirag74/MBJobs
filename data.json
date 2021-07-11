@@ -1,158 +1,131 @@
 [
   {
     "id": 1,
-    "company": "TekStrea",
-    "logo": "https://pbs.twimg.com/profile_images/1871386426/TSIconButtonSM_400x400.png",
-    "roleName": "Pega Developer - 100% Remote",
+    "company": "Infosys",
+    "logo": " https://1000logos.net/wp-content/uploads/2020/08/Infosys-Logo.png",
+    "roleName": "Infosys - System Engineer",
     "postedTime": "5h ago",
     "type": "Full Time",
     "location": "United States",
     "website": "https://linkedin.com/TekStrea",
-    "applicationLink": "https://linkedin.com/TekStrea/apply",
+    "applicationLink": "https://surveys.infosysapps.com/r/a/infy_se_2021_july",
     "requirements": {
       "intro": "A TekStrea client, a healthcare technology company, has an immediate need for a Pega Developer for a remote long term contract.  We're looking for an experienced developer to support defects, issues and development.",
-      "content": "The ideal candidate is as passionate about solving challenges through technology.",
+      "content": "Infosys Off Campus Drive scheduled for B.E/B.Tech/M.E/M.Tech/MCA/M.Sc -2021 batch graduates for the role of Systems Engineer. The detailed eligibility and application process are given below.",
       "items": [
-        "Needs to be experienced in the PEGA platform on at least 7.22 with PEGA 8.x preferred.",
-        "Pega Marketing or Pega Customer Decision Hub certification (for developers).",
-        "Blues experience highly preferred, Healthcare experience required.",
-        "Must be USA based and open to work standard business hours of 8-5pm ET."
+        ""
       ]
     }
   },
   {
     "id": 2,
-    "company": "Facebook",
-    "logo": "https://media-exp1.licdn.com/dms/image/C560BAQGrV5i4K9YdhQ/company-logo_200_200/0/1621582241755?e=1632960000&v=beta&t=nOdXGCQjrjyGuhl8JlhvQtSQCIz64Nr8jQbYZjAoX28",
-    "roleName": "3D Web Software Engineer",
+    "company": "SAP",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/SAP_2011_logo.svg/2560px-SAP_2011_logo.svg.png",
+    "roleName": "Developer Associate",
     "postedTime": "20h ago",
     "type": "Part Time",
     "location": "United States",
     "website": "https://linkedin.com/Facebook",
-    "applicationLink": "https://linkedin.com/Facebook/apply",
+    "applicationLink": "https://jobs.sap.com/job/Bangalore-Developer-Associate-560066/691672501/",
     "requirements": {
       "intro": "Facebook's mission is to give people the power to build community and bring the world closer together. ",
-      "content": "Come work alongside expert software engineers and research scientists to create the technology that makes VR and AR pervasive and universal. Join the adventure of a lifetime as we make science fiction real and change the world.",
-      "items": [
-        "BS Computer Science or equivalent experience",
-        "3+ years of experience developing 3D/XR web applications or frameworks",
-        "5+ years of experience using JavaScript in a professional software development setting"
-      ]
+      "content": "Demonstrate to Learn & Develop highly performant and reusable software using Java concepts and  technologies BE/BTech/ME/MTech/MCA or equivalent qualification with experience of 0-3 years"
+     
     }
   },
   {
     "id": 3,
-    "company": "Jobot",
-    "logo": "https://media-exp1.licdn.com/dms/image/C560BAQEGgYq8v01oVg/company-logo_200_200/0/1620205047267?e=1632960000&v=beta&t=IwXDuGaCCMq-nL3_thY1tesHiJQkuIpqKowe_QZM3-0",
-    "roleName": "SR. Software Engineer - Python Django",
+    "company": "Amazon",
+    "logo": "http://media.corporate-ir.net/media_files/IROL/17/176060/Oct18/Amazon%20logo.PNG",
+    "roleName": "Device Associate",
     "postedTime": "1d ago",
     "type": "Part Time",
     "location": "United States",
     "website": "https://linkedin.com/Jobot",
-    "applicationLink": "https://linkedin.com/Jobot/apply",
+    "applicationLink": "https://www.amazon.jobs/en-gb/jobs/1551934/device-associate",
     "requirements": {
       "intro": "Are you a fit? Easy Apply now by clicking the 'Apply' button and sending us your resume.",
-      "content": "We're looking for Sr. level backend software engineers that have at least 7 years of writing code for web-based Python applications.",
-      "items": [
-        "You will need at least 3 years of writing Python Django applications and at least 10 years of software engineering experience.",
-        "The frontend of this application is written in React.js - if you are comfortable in a full-stack role, then even better, but not a requirement.",
-        "Ideally, you have tenure in all of the companies you've worked for, so you can show growth and technical challenges that you've overcome over time."
-      ]
+      "content": "A device associate’s primary responsibility is to execute test case instructions and report discrepancies. He/she is also responsible for successful and on time delivery of results. • A graduate in any field of study. Quantitative fields such as science and engineering are Preferred."
+      
     }
   },
   {
     "id": 4,
-    "company": "SpringbokIT",
-    "logo": "https://media-exp1.licdn.com/dms/image/C560BAQFVeIIhYnGo6g/company-logo_200_200/0/1566232530771?e=1632960000&v=beta&t=tfQAp5vydhZo-j54X4RyBaycug52wjWTE2fQkuFnEhI",
-    "roleName": "Frontend Content Developer",
+    "company": "Air Asia",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/AirAsia_New_Logo.svg/1200px-AirAsia_New_Logo.svg.png",
+    "roleName": "Software Developer 1",
     "postedTime": "2d ago",
     "type": "Full Time",
     "location": "United States",
     "website": "https://linkedin.com/SpringbokIT",
-    "applicationLink": "https://linkedin.com/SpringbokIT/apply",
+    "applicationLink": "https://airasia.eightfold.ai/careers?pid=7876939&domain=airasia.com",
     "requirements": {
       "intro": "A global leader in the retail space has migrated to Salesforce and is looking to add to its content development team. ",
-      "content": "The company holds a “Greater Together” mentality and the Content Production Manager, to which this role reports, embodies that mantra. ",
-      "items": [
-        "Experience with Salesforce Commerce Cloud (SFCC) Business Manager",
-        "HTML, CSS, Javascript, and Bootstrap",
-        "Experience working with a collaborative group in a process-oriented production environment."
-      ]
+      "content": "Serve as a key member of our Engineering team and contribute to establishing the best technical practices.Work closely with the Product team to understand their expectations of how a feature would function. "
+     
     }
   },
   {
     "id": 5,
-    "company": "Dice",
-    "logo": "https://media-exp1.licdn.com/dms/image/C560BAQEYK67Tel_mng/company-logo_200_200/0/1624162747433?e=1632960000&v=beta&t=F2NDtQwFDzIZzYfL2hVY6Ik7jY1uAXX43F8u0b_qRG0",
-    "roleName": "Front End Developer",
+    "company": "Medtronic",
+    "logo": "https://media-exp1.licdn.com/dms/image/C4E0BAQFtfhYtQCCedw/company-logo_200_200/0/1625143959972?e=2159024400&v=beta&t=q4wn_i745iKr_pitPAcLczQZo3C7BU0ctMvV6b5OHHw",
+    "roleName": "Trainee Software Engineer",
     "postedTime": "2d ago",
     "type": "Part Time",
     "location": "United States",
     "website": "https://linkedin.com/Dice",
-    "applicationLink": "https://linkedin.com/Dice/apply",
+    "applicationLink": "https://jobs.medtronic.com/jobs/software-engineer-i-101025",
     "requirements": {
       "intro": "Dice is the leading career destination for tech experts at every stage of their careers. Our client, TrustMinds, Inc., is seeking the following. Apply via Dice today!",
-      "content": "Seeking front end developers to build and maintain websites, landing pages, and display ad banners using HTMLCSSJavaScript to build responsive designs from provided mockups ",
-      "items": [
-        "advanced HTML, CSS, and JavaScript",
-        "build systems based on NPM, Gulp, Webpack, Sass",
-        "should feel confident using GitGitflow branching strategies"
-      ]
+      "content": "Design, Develop and test Software high integrity software for medical devices.Learn and understand software standards for Medical devices, ex. IEC62304.Work under general direction of Senior member and in collaboration with team."
+     
     }
   },
   {
     "id": 6,
-    "company": "The Population Project",
-    "logo": "https://media-exp1.licdn.com/dms/image/C560BAQHqd8XtvITvMw/company-logo_200_200/0/1620162734126?e=1632960000&v=beta&t=s_UAIFXLLnVUJJnlpd1X686SWG-7I3IjyyYwA5p-WNM",
-    "roleName": "CTO / Co-founder",
+    "company": "NickleFox",
+    "logo": "https://cdn.techinasia.com/data/images/bfe12b8d2852f1537e745bd1c7a5d16d.png",
+    "roleName": "HTML-CSS-Developer",
     "postedTime": "2d ago",
     "type": "Part Time",
     "location": "United States",
     "website": "https://linkedin.com/ThePopulationProject",
-    "applicationLink": "https://linkedin.com/ThePopulationProject/apply",
+    "applicationLink": "https://www.nickelfox.com/career/job-description/?id=35",
     "requirements": {
       "intro": "The Population Project, a non-profit organization striving to list the name and date of birth of all humans alive, is looking for its CTO / technical co-founder.",
-      "content": "This is a non- to low-paying position, requiring 10 to 40 hours a week depending on your involvement.",
-      "items": [
-        "Maintaining a large Postgres AWS-hosted database",
-        "Building the next version of our website when we decide to publicly expose our data",
-        "Monitoring the Wrike and Discord collaboration platforms with which we interact with our volunteers"
-      ]
+      "content": "Strong Knowledge with Hands on experience in React or any other JS Framework/libraries, JQuery, JavaScript, TypeScript, Bootstrap, HTML, CSS3, CSS, Responsive web design, Ajax, XML/JSON, Websockets, D3, tweenmax , Lodash, ESLint, Chart libraries."
+     
     }
   },
   {
     "id": 7,
-    "company": "Georgia IT, Inc.",
-    "logo": "https://media-exp1.licdn.com/dms/image/C510BAQHTI2pFWjn2UA/company-logo_200_200/0/1519897797698?e=1632960000&v=beta&t=5H-Vp8dCcXJ8fICwNGmB2YQzJYqyimjkZFYF-4j5fj0",
-    "roleName": "Full Stack Engineer - REMOTE or Onsite",
+    "company": "Salesforce",
+    "logo": "data:image/png;base64,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",
+    "roleName": "Full Stack Engineer",
     "postedTime": "2d ago",
     "type": "Part Time",
     "location": "United States",
     "website": "https://linkedin.com/GeorgiaITInc",
-    "applicationLink": "https://linkedin.com/GeorgiaITInc/apply",
+    "applicationLink": "https://salesforce.wd1.myworkdayjobs.com/en-US/External_Career_Site/job/India---Hyderabad/Full-Stack-Developer_JR104009",
     "requirements": {
       "intro": "This company hasn't provided an intro.",
-      "content": "Able to interface with customer digital sales and lead generation tools and following the lead into their CRM (SalesForce) system for conversion by an agent.",
-      "items": [
-        "US Citizens and Green Card Only, No third party",
-        "Engineers with solid JavaScript and AWS background.",
-        "Experience in React.JS, Node.JS, and Angular is preferred"
-      ]
+      "content": "Able to interface with customer digital sales and lead generation tools and following the lead into their CRM (SalesForce) system for conversion by an agent."
+    
     }
   },
   {
     "id": 8,
-    "company": "Michael Page",
-    "logo": "https://media-exp1.licdn.com/dms/image/C560BAQFWT_CW-6Hd2Q/company-logo_200_200/0/1623848489646?e=1632960000&v=beta&t=eyDm2mqsK9xeBZawTXTUsBYze8WRduxd3uukb4T26Ao",
-    "roleName": "Frontend Software Engineer Remote Banking $130k/yr",
+    "company": "Paypal",
+    "logo": "data:image/jpeg;base64,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",
+    "roleName": "Software Engineer 1",
     "postedTime": "2d ago",
     "type": "Part Time",
     "location": "United States",
     "website": "https://linkedin.com/MichaelPage",
-    "applicationLink": "https://linkedin.com/MichaelPage/apply",
+    "applicationLink": "https://wd1.myworkdaysite.com/recruiting/paypal/jobs/job/Hyderabad-IN/Software-Engineer-1_R0075138",
     "requirements": {
       "intro": "This company is a Boston based company that partners with hundreds of banks and credit unions. Voted one of the fastest growing FinTech companies in the world in 2020, our client strives to produce a product to help streamline the banking industry.",
-      "content": "Tech Stack: Typescript, JavaScript, Angular, AWS, CSS",
+      "content": "Proficient in client & server-side JavaScript, HTML5, CSS3 and webpack Competent in building single page web applications using Node.js and React/Angular Experience with cross-browser, cross-platform and design constraints on the web",
       "items": [
         "4+ years of hands on development experience",
         "Experience in frontend development using Typescript, JavaScript and Angular",
@@ -162,17 +135,17 @@
   },
   {
     "id": 9,
-    "company": "GAOTek Inc.",
-    "logo": "https://media-exp1.licdn.com/dms/image/C510BAQGg0dos_fVHhA/company-logo_200_200/0/1567998421321?e=1632960000&v=beta&t=X7EYf4jI7lCJfyrtzOKhv2bkz4rrML4AmbMN1g1jqLY",
-    "roleName": "Software Development Intern (Virtual)",
+    "company": "Tech-Mahindra",
+    "logo": "https://images.livemint.com/img/2020/02/02/600x338/techm_1580659916850.JPG",
+    "roleName": "Trainee",
     "postedTime": "2d ago",
     "type": "Part Time",
     "location": "United States",
     "website": "https://linkedin.com/GAOTekInc",
-    "applicationLink": "https://linkedin.com/GAOTekInc/apply",
+    "applicationLink": "https://registration.techmahindra.com/Candidate/RegDefault.aspx",
     "requirements": {
       "intro": "You shall be keen to learn, willing to work hard, maintaining productivity and committed to the job. ",
-      "content": "This position is for those who are currently residing in the US and have the correct VISA to work in the country.",
+      "content": "Candidate having scored minimum of 60% in 10th/Xth, 12th/XIIth, Engineering Degree and MCA are eligible for this drive.",
       "items": [
         "Software development plans",
         "Software architecture",
@@ -182,17 +155,17 @@
   },
   {
     "id": 10,
-    "company": "RemoteHub",
-    "logo": "https://media-exp1.licdn.com/dms/image/C4E0BAQGQ_EPbBXR8Hg/company-logo_200_200/0/1604324330666?e=1632960000&v=beta&t=53alZNNXv3B7o_J5jHG4pe7plcWIMBB8kdgxS1ooMCQ",
-    "roleName": "Work from Home Opportunities",
+    "company": "Tata Health",
+    "logo": "https://media-fastly.hackerearth.com/media/companies/972ad2b-Tata_Health_Plus_Logo_RGB.jpg",
+    "roleName": "Associate Programmer",
     "postedTime": "2d ago",
     "type": "Part Time",
     "location": "United States",
     "website": "https://linkedin.com/RemoteHub",
-    "applicationLink": "https://linkedin.com/RemoteHub/apply",
+    "applicationLink": "http://tatahealth.talenttar.com/",
     "requirements": {
       "intro": "Appen is a global leader in speech and search technology services and we have several part time work from home opportunities that you can apply for!",
-      "content": "We are looking for applicants for an exciting work from home opportunity. Applicants must be self-motivated and internet savvy and there is no previous work experience or college degree required to apply for our jobs.",
+      "content": "B.E/B.Tech in Computer Science/IT related streams 2021 Passed outs only Scores: 10th> 70%, 12th> 70% , UG CGPA > 7.0",
       "items": [
         "Linguistic Specialties (Text to Speech, Computational, Phonetics, Pronunciation, Annotation, etc.)",
         "Social Media Evaluation (Help improve social media around the globe)",
@@ -202,17 +175,17 @@
   },
   {
     "id": 11,
-    "company": "Suncap Technology",
-    "logo": "https://media-exp1.licdn.com/dms/image/C4E0BAQEROuteF2F3gQ/company-logo_200_200/0/1555514992609?e=1632960000&v=beta&t=7P8pg3cma4GKzE6l7SmGRp-zjdd_WC_KSkMEwGzmWAw",
-    "roleName": "Front-end Web Developer /Remote (San Bruno, CA Post Covid) 12 mth+ contract",
+    "company": "Engagedly",
+    "logo": "data:image/png;base64,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",
+    "roleName": "QA ENGINEER",
     "postedTime": "2d ago",
     "type": "Part Time",
     "location": "United States",
     "website": "https://linkedin.com/SuncapTechnology",
-    "applicationLink": "https://linkedin.com/SuncapTechnology/apply",
+    "applicationLink": "https://engagedly.freshteam.com/jobs/U5JZN2_9rOZv/engineer-qa-fresher",
     "requirements": {
-      "intro": "This company hasn't provided an intro.",
-      "content": "Front-end Web Developer includes:",
+      "intro": "This company   hasn't provided an intro.",
+      "content": "You are a passionate fresher with a relevant course in testing. You are energetic with strong problem-solving skills in software testing.You are a talented, detail-oriented and enthusiastic tester who is passionate about quality and cutting-edge technology.",
       "items": [
         "Design, and develop Web and Mobile Web pages",
         "Effectively collaborate with Product, UX, and Marketing teams",
@@ -222,37 +195,33 @@
   },
   {
     "id": 12,
-    "company": "HomeLister",
-    "logo": "https://media-exp1.licdn.com/dms/image/C4E0BAQHCaYJPwpvdIQ/company-logo_200_200/0/1519892616664?e=1632960000&v=beta&t=SFdjFVBx6X3Ynpxd2SrxF9lbBufwgSNqf-SGQZ3vJcE",
-    "roleName": "Data Entry Specialist - Full Time - Work From Home",
+    "company": "Technicolor",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e6/Technicolor_logo.svg/1200px-Technicolor_logo.svg.png",
+    "roleName": "Software Analyst",
     "postedTime": "2d ago",
     "type": "Part Time",
     "location": "United States",
     "website": "https://linkedin.com/HomeLister",
-    "applicationLink": "https://linkedin.com/HomeLister/apply",
+    "applicationLink": "https://jobs.smartrecruiters.com/Technicolor/743999737515836-software-analyst-junior",
     "requirements": {
       "intro": "[Office Assistant / Remote] - Anywhere in U.S. / up to $44k-yr / Medical-Dental-PTO-401(k) Matching / Real Estate Experience Not Required",
-      "content": "As a Data Entry Specialist you'll: Gain valuable experience learning about residential real estate, and join a great team;",
-      "items": [
-        "Be proficient at standard office software",
-        "Quick to learn new programs",
-        "Possess excellent written and verbal communication skills"
-      ]
+      "content": "We are hiring a Junior – Software Support Analyst, for our Bangalore services and technology solutions team. You will be part of a team that provides global support (24*7) to our artists and engineers in our worldwide studios."
+     
     }
   },
   {
     "id": 13,
-    "company": "WMI Worldwide",
-    "logo": "https://media-exp1.licdn.com/dms/image/C4D0BAQESmXHE28MpUw/company-logo_200_200/0/1519905226668?e=1632960000&v=beta&t=gi-x1SZrOMdTO-Oc6sdZ-G7UDr8Y5M7ixo5ddribOKk",
-    "roleName": "Software Engineer II",
+    "company": "Adda",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMFHDd3bN4CwF9ZxXVZ3UYYO9qDGy1MYDpbQ&usqp=CAU",
+    "roleName": "Junior Software Engineer",
     "postedTime": "2d ago",
     "type": "Part Time",
     "location": "United States",
     "website": "https://linkedin.com/WMIWorldwide",
-    "applicationLink": "https://linkedin.com/WMIWorldwide/apply",
+    "applicationLink": "https://adda247.kekahire.com/JobDetails/4965",
     "requirements": {
       "intro": "Our client's game inspires millions to create together, connects people across the globe, and brings together a community that is among the most active and passionate in the world. The team is looking for a developer to lead and drive the timely delivery of next generation game technology and foundations.",
-      "content": "The Software Engineer II has built large-scale cloud services running in Azure and will take end-to-end ownership for development and quality of products and services that delight customers and add strategic value to our client. ",
+      "content": "We aspire to build high-quality, innovative & robust software. If you are a hands-on platform builder with significant experience in developing scalable data platforms, look no further. Click on Apply and we will reach out to you soon. ",
       "items": [
         "Developing and coordinating features using Microsoft Azure compute and storage",
         "Defining initiatives that impact our games",
@@ -262,17 +231,17 @@
   },
   {
     "id": 14,
-    "company": "RIT Solutions, Inc.",
-    "logo": "https://media-exp1.licdn.com/dms/image/C560BAQEP3xJYibhYmQ/company-logo_200_200/0/1595879151058?e=1632960000&v=beta&t=19s3Bsxz2fGxZoJ_ybc4BJ4SbCQopUPcAC6NZ601T-Y",
-    "roleName": "UI developer - REMOTE",
+    "company": "Texas Instruments",
+    "logo": "data:image/png;base64,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",
+    "roleName": "Software Engineer",
     "postedTime": "2d ago",
     "type": "Part Time",
     "location": "United States",
     "website": "https://linkedin.com/RITSolutionsInc",
-    "applicationLink": "https://linkedin.com/RITSolutionsInc/apply",
+    "applicationLink": "https://careers.ti.com/job/13126591/software-engineer-bangalore-in/",
     "requirements": {
       "intro": "Looking for a UI Developer with a strong background in ReactJS. ",
-      "content": "Must have strong exp. with ReactJs ",
+      "content": "Good handle in C with project experience in development of applications on embedded platforms Good SW debugging skills. Able to identify software/hardware issues with minimal iterations.Basic knowledge of hardware and well versed with using lab equipment like oscilloscope ",
       "items": [
         "Have 8+ years of experience developing software apps",
         "HTML, CSS, Responsive Web",
@@ -282,17 +251,17 @@
   },
   {
     "id": 15,
-    "company": "RemoteHub",
-    "logo": "https://media-exp1.licdn.com/dms/image/C560BAQH3PRxm6epbWg/company-logo_200_200/0/1519887943661?e=1632960000&v=beta&t=Jiyz0IaBcktNiy4SqWZr8ZD2sFw-fPgPkqlRtIF57gE",
-    "roleName": "Freelance Data Entry Associate (Work From Home)",
+    "company": "Dell",
+    "logo": "data:image/jpeg;base64,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",
+    "roleName": "Software Engineer",
     "postedTime": "2d ago",
     "type": "Part Time",
     "location": "United States",
     "website": "https://linkedin.com/RemoteHub",
-    "applicationLink": "https://linkedin.com/RemoteHub/apply",
+    "applicationLink": "https://jobs.dell.com/job/bengaluru/software-engineer-1/375/19574093",
     "requirements": {
       "intro": "Anywhere in U.S. / Competitive pay / Contract position with potential for future assignments",
-      "content": "As a Data Entry Associate you'll: Assist in the creation of content;",
+      "content": "As a Software Engineer, you will be responsible for developing sophisticated systems and software basis the customer’s business goals, needs and general business environment creating software solutions.",
       "items": [
         "Compile and sort information to prepare source data",
         "Review data for deficiencies or errors",

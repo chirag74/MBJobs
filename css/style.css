@@ -181,9 +181,17 @@ padding: 0 25px;
 
 }
 .apply-now{
-    color: white;
+    color:wheat;
+    text-decoration: none;
     background: #3060FF;
     margin-right: 15px;
+}
+
+.apply-now a{
+    text-decoration: none;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
 }
 
 @media screen and (max-width: 930px){
