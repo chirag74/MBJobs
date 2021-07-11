@@ -56,7 +56,7 @@ jobs.forEach(job =>{
                         </div>
                         <div class="buttons">
                             <div class="button apply-now">
-                            <a href=${job.applicationLink}>Apply now</a>
+                            <a target="_blank" href=${job.applicationLink}>Apply now</a>
             
                             </div>
                            
