@@ -107,6 +107,9 @@ padding: 0 25px;
     font-size: 20px;
 
 }
+.jobs-list i{
+    color: red;
+}
 .jobs-container{
     display: grid;
     gap:40px ;
