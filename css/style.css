@@ -126,6 +126,9 @@ padding: 0 25px;
     justify-content: flex-start;
     /* align-items: center; */
     color: white;
+    /* box-shadow: 20px 20px 50px rgba(0,0,0,0.5); */
+    /* background: rgba(255, 255,255, 0.1); */
+    /* backdrop-filter: blur(5px); */
     padding: 30px;
     transition: transform 0.2s;
 
@@ -151,6 +154,7 @@ padding: 0 25px;
 }
 .rolename span{
     font-size: 22px;
+    z-index: 1;
 }
 
 .description{
@@ -167,6 +171,8 @@ padding: 0 25px;
     display: flex;
     justify-content: space-between;
     height: 45px ;
+    /* box-shadow: 20px 20px 50px rgba(255,255,255,0.5); */
+    /* z-index: 1; */
 }
 .button{
     /* background-color: green; */
@@ -187,6 +193,7 @@ padding: 0 25px;
     text-decoration: none;
     background: #3060FF;
     margin-right: 15px;
+    /* z-index: 1; */
 }
 
 .apply-now a{
