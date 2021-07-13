@@ -19,17 +19,17 @@
   },
   {
     "id": 2,
-    "company": "SAP",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/SAP_2011_logo.svg/2560px-SAP_2011_logo.svg.png",
-    "roleName": "Developer Associate",
+    "company": "TATA Health",
+    "logo": "https://media-fastly.hackerearth.com/media/companies/972ad2b-Tata_Health_Plus_Logo_RGB.jpg",
+    "roleName": "Associate Programmer",
     "postedTime": "20h ago",
     "type": "Part Time",
     "location": "United States",
     "website": "https://linkedin.com/Facebook",
-    "applicationLink": "https://jobs.sap.com/job/Bangalore-Developer-Associate-560066/691672501/",
+    "applicationLink": "http://tatahealth.talenttar.com/",
     "requirements": {
-      "intro": "Facebook's mission is to give people the power to build community and bring the world closer together. ",
-      "content": "Demonstrate to Learn & Develop highly performant and reusable software using Java concepts and  technologies BE/BTech/ME/MTech/MCA or equivalent qualification with experience of 0-3 years"
+      "intro": "The Company is a healthcare venture from Tata Group with the mission to build the backbone for healthcare. We will serve as the health hub for personal health and wellness needs. Our vision is to help doctors do what they do best - treating patients, and improve the patient healthcare experience. ",
+      "content": "The Company is a healthcare venture from Tata Group with the mission to build the backbone for healthcare. We will serve as the health hub for personal health and wellness needs. Our vision is to help doctors do what they do best - treating patients, and improve the patient healthcare experience."
      
     }
   },
