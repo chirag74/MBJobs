@@ -19,17 +19,17 @@
   },
   {
     "id": 2,
-    "company": "Capgemini",
-    "logo": "https://www.drupal.org/files/Capgemini_Logo_2COL_RGB.png",
-    "roleName": "Software Engineer",
+    "company": "TATA Health",
+    "logo": "https://media-fastly.hackerearth.com/media/companies/972ad2b-Tata_Health_Plus_Logo_RGB.jpg",
+    "roleName": "Associate Programmer",
     "postedTime": "20h ago",
     "type": "Part Time",
     "location": "United States",
     "website": "https://linkedin.com/Facebook",
-    "applicationLink": "https://career10.successfactors.com/career?career_ns=job_listing&company=C0002723615P&navBarLevel=JOB_SEARCH&career_job_req_id=77560",
+    "applicationLink": "http://tatahealth.talenttar.com/",
     "requirements": {
-      "intro": "Facebook's mission is to give people the power to build community and bring the world closer together. ",
-      "content": "Capgemini India is hiring freshers as Software Engineer. Candidates from multiple batches are eligible for this role. The detailed eligibility and application process are given below."
+      "intro": "The Company is a healthcare venture from Tata Group with the mission to build the backbone for healthcare. We will serve as the health hub for personal health and wellness needs. Our vision is to help doctors do what they do best - treating patients, and improve the patient healthcare experience. ",
+      "content": "The Company is a healthcare venture from Tata Group with the mission to build the backbone for healthcare. We will serve as the health hub for personal health and wellness needs. Our vision is to help doctors do what they do best - treating patients, and improve the patient healthcare experience."
      
     }
   },
@@ -303,6 +303,22 @@
     "requirements": {
       
       "content": "Thermo Fisher Scientific is an American provisioner of scientific instrumentation, reagents and consumables, and software and services to healthcare, life science, and other laboratories in academia, government, and industry.      "
+     
+    }
+  },
+  {
+    "id": 19,
+    "company": "Capgemini",
+    "logo": "https://www.drupal.org/files/Capgemini_Logo_2COL_RGB.png",
+    "roleName": "Software Engineer",
+    "postedTime": "20h ago",
+    "type": "Part Time",
+    "location": "United States",
+    "website": "https://linkedin.com/Facebook",
+    "applicationLink": "https://career10.successfactors.com/career?career_ns=job_listing&company=C0002723615P&navBarLevel=JOB_SEARCH&career_job_req_id=77560",
+    "requirements": {
+      "intro": "Facebook's mission is to give people the power to build community and bring the world closer together. ",
+      "content": "Capgemini India is hiring freshers as Software Engineer. Candidates from multiple batches are eligible for this role. The detailed eligibility and application process are given below."
      
     }
   }
