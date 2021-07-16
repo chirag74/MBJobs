@@ -333,5 +333,17 @@
       "content": "Blackboard Inc. is an American educational technology company with corporate headquarters in Washington, D.C.. It is known for Blackboard Learn, a learning management system. "
      
     }
+  },
+  {
+    "id": 21,
+    "company": "TCS",
+    "logo": "https://mma.prnewswire.com/media/1477373/TCS_Logo.jpg?p=facebook",
+    "roleName": "TCS Ninja Hiring",
+    "applicationLink": "https://www.tcs.com/careers/TCSNinjaHiringYoP2022",
+    "requirements": {
+      
+      "content": "Leading in the new normal has reinforced our global leadership position. It’s our privilege and pride to be acknowledged as a preferred partner of innovation and growth by our valued global customers. Likewise, we are proud to be the employer of choice among aspiring students. "
+     
+    }
   }
 ]

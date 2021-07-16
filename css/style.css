@@ -11,9 +11,9 @@ body{
 
 header{
     background-color: #1C1C24;
-    height: 70px;
+    height: 100px;
     display: flex;
-    justify-content: center;
+    /* justify-content: center; */
     align-items: center;
     font-size: 20px;
     margin-bottom: 25px;
@@ -32,11 +32,26 @@ header{
 .header-container .logo{
     height: 67px;
     margin-right: 10px;
+    margin-top: -40px;
+    /* box-shadow: 8px 8px 2px 2px #404042; */
 }
 .header-container .logo img{
-    height: 60px;
+    height: 100px;
      border-radius: 10%;
+     /* z-index: 1; */
+     /* box-shadow: 8px 8px 2px 2px #404042; */
     
+}
+.header-container>span{
+    font-size: 18px;
+    font-weight: bold;
+    color: white;
+    z-index: 1;
+    font-family: cursive;
+    /* background-color: black; */
+}
+.header-container>span .bold{
+    color: white;
 }
 .search{
 width: 100%;
